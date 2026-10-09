@@ -2,11 +2,12 @@
 
 [← 返回 hfufbp 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **20** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **21** 篇。
 
 <!-- gitflow:articles:start -->
-## 预测模型（9篇）
+## 预测模型（10篇）
 
+- [2026年10月专业深度预测:足球推荐亚冠今日预测-北斗财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E4%B8%93%E4%B8%9A%E6%B7%B1%E5%BA%A6%E9%A2%84%E6%B5%8B-%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E4%BA%9A%E5%86%A0%E4%BB%8A%E6%97%A5%E9%A2%84%E6%B5%8B-%E5%8C%97%E6%96%97%E8%B4%A2%E7%BB%8F.md) — pc28在线预测网期中主题解读 <!-- gitflow:article:969512add34fe7c73feb88e982b1a1f948eacb3177b3dcec0e6f68041670cea6 -->
 - [2026年10月智能模型预测:今日法甲足球推荐兰斯-顺泰财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%B3%95%E7%94%B2%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E5%85%B0%E6%96%AF-%E9%A1%BA%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) — 北京pc28手机直播主题解读 <!-- gitflow:article:e6bfafd03fe20b058c0c543debb421adc57979144a49025b057fbec751a6423b -->
 - [2026年10月行业数据预测:今日日本足球推荐-光盛财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E8%A1%8C%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E5%85%89%E7%9B%9B%E8%B4%A2%E7%BB%8F.md) — pc28赚钱方法主题解读 <!-- gitflow:article:742811de58d82128f743d094b6076e77945de2d80409953694817013715f00de -->
 - [2026年10月跨年大盘预测:今日足球推荐精准-汉武财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E8%B7%A8%E5%B9%B4%E5%A4%A7%E7%9B%98%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E7%B2%BE%E5%87%86-%E6%B1%89%E6%AD%A6%E8%B4%A2%E7%BB%8F.md) — Pc28组合死方法主题解读 <!-- gitflow:article:0996156e3e27a609f27619a91b86592e7b543c0bcbc9b80013792b7fead6f9f8 -->
