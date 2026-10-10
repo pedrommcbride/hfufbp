@@ -2,12 +2,13 @@
 
 [← 返回 hfufbp 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **51** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **52** 篇。
 
 <!-- gitflow:articles:start -->
-## 预测模型（27篇）
+## 预测模型（28篇）
 
 - [2026年10月专业深度预测:足球推荐亚冠今日预测-北斗财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E4%B8%93%E4%B8%9A%E6%B7%B1%E5%BA%A6%E9%A2%84%E6%B5%8B-%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E4%BA%9A%E5%86%A0%E4%BB%8A%E6%97%A5%E9%A2%84%E6%B5%8B-%E5%8C%97%E6%96%97%E8%B4%A2%E7%BB%8F.md) — pc28在线预测网期中主题解读 <!-- gitflow:article:969512add34fe7c73feb88e982b1a1f948eacb3177b3dcec0e6f68041670cea6 -->
+- [2026年10月官方综合预测:英超开云体育-光泰财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E5%AE%98%E6%96%B9%E7%BB%BC%E5%90%88%E9%A2%84%E6%B5%8B-%E8%8B%B1%E8%B6%85%E5%BC%80%E4%BA%91%E4%BD%93%E8%82%B2-%E5%85%89%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) — pc28加拿大预测网主题解读 <!-- gitflow:article:dcd89bbdae849e72a93bf1e53405d7ad4317244d2759e00bbcac57f6dfc21196 -->
 - [2026年10月智库数据预测:开云体育足彩-三元财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E5%BA%93%E6%95%B0%E6%8D%AE%E9%A2%84%E6%B5%8B-%E5%BC%80%E4%BA%91%E4%BD%93%E8%82%B2%E8%B6%B3%E5%BD%A9-%E4%B8%89%E5%85%83%E8%B4%A2%E7%BB%8F.md) — 加拿大pc28数字预测主题解读 <!-- gitflow:article:36458ce127cd5b16baccbbf5730ca935d1ee46b25bf6d3a996233db057e6f97c -->
 - [2026年10月智能前瞻预测:今日足球预测推荐免费-宏达财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E8%83%BD%E5%89%8D%E7%9E%BB%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B%E6%8E%A8%E8%8D%90%E5%85%8D%E8%B4%B9-%E5%AE%8F%E8%BE%BE%E8%B4%A2%E7%BB%8F.md) — pc28技术主题解读 <!-- gitflow:article:9186bf9c45b84d6d7a73665b0b401caab748eb20b5cb12c9453b503c66bf436d -->
 - [2026年10月智能模型预测:今日法甲足球推荐兰斯-顺泰财经](https://github.com/pedrommcbride/hfufbp/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%B3%95%E7%94%B2%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E5%85%B0%E6%96%AF-%E9%A1%BA%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) — 北京pc28手机直播主题解读 <!-- gitflow:article:e6bfafd03fe20b058c0c543debb421adc57979144a49025b057fbec751a6423b -->
